@@ -1,0 +1,25 @@
+{
+  "name": "roomeo",
+  "type": "module",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roomeo-ph/roomeo"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "start:api": "bun --filter api start",
+    "start:web": "bun --filter web start",
+    "dev:api": "bun --filter api dev",
+    "dev:web": "bun --filter web dev"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^7"
+  }
+}

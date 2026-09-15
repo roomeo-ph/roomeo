@@ -1,0 +1,11 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "hono/jsx",
+    "paths": {
+      "@/api/*": ["./src/*"]
+    },
+    "typeRoots": ["./node_modules/@types"]
+  }
+}
