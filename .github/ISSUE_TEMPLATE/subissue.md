@@ -1,5 +1,5 @@
 ---
-name: User Story
+name: Sub-issue
 about: Define the committee-specific task for a given user story
 title: '[<COMMITTEE>]: '
 labels: 'task'
