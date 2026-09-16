@@ -1,4 +1,10 @@
-<!-- [FEATURE] <Feature Name> #<Issue Number> -->
+---
+name: Feature Request
+about: Suggest an idea or enhancement for this project.
+title: '[FEATURE] '
+labels: enhancement
+assignees: ''
+---
 
 ## Task: <Task Title>
 - **Description:** Briefly describe what this task accomplishes.

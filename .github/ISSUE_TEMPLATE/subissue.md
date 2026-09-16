@@ -1,4 +1,10 @@
-<!-- [COMMITTEE] <Task Name>  -->
+---
+name: User Story
+about: Define the committee-specific task for a given user story
+title: '[<COMMITTEE>]: '
+labels: 'task'
+assignees: ''
+---
 
 ## Task: Title
 - **Committee:**
@@ -11,5 +17,6 @@
   - [ ] Criteria 1
   - [ ] Criteria 2
   - [ ] Criteria 3
+- **User Story:** \#ISSUE_NUMBER
 
 ## Notes 

@@ -1,4 +1,10 @@
-<!-- [BUG] <Bug Title> #<Issue Number> -->
+---
+name: Bug Report
+about: Create a report to help us improve and fix errors.
+title: '[BUG] '
+labels: bug
+assignees: ''
+---
 
 ## Description
 - **Summary:** Briefly describe the bug and its impact.
