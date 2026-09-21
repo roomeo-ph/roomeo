@@ -42,4 +42,6 @@ bun run dev:api
 bun run dev:web
 ```
 
+See [the frontend development guide](apps/web/README.md) for the source layout, component setup, API proxy, and build/check commands.
+
 This project was created using `bun init` in bun v1.4.0.

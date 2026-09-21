@@ -14,7 +14,12 @@
     "start:api": "bun --filter api start",
     "start:web": "bun --filter web start",
     "dev:api": "bun --filter api dev",
-    "dev:web": "bun --filter web dev"
+    "dev:web": "bun --filter web dev",
+    "build:web": "bun --filter web build",
+    "check:web": "bun --filter web check",
+    "lint:web": "bun --filter web lint",
+    "typecheck:web": "bun --filter web typecheck",
+    "preview:web": "bun --filter web preview"
   },
   "devDependencies": {
     "@types/bun": "latest"
