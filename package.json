@@ -2,6 +2,10 @@
   "name": "roomeo",
   "type": "module",
   "private": true,
+  "packageManager": "bun@1.4.0",
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/roomeo-ph/roomeo"
